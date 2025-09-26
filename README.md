@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Mahmoud Widar  
+## 👋 Hello, I’m Mahmoud Dwidar  
 
 I am a passionate **AI and Machine Learning enthusiast** with a keen interest in developing intelligent solutions and exploring innovative technologies.  
 
