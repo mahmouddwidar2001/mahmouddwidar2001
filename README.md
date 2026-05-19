@@ -1,28 +1,53 @@
-## 👋 Hello, I’m Mahmoud Dwidar  
+# Mahmoud Dwidar
 
-I am a passionate **AI and Machine Learning enthusiast** with a keen interest in developing intelligent solutions and exploring innovative technologies.  
+AI Engineer | Machine Learning Engineer
 
-### 🎓 Education  
-- Graduate of **Faculty of Computers and Artificial intelligence, Helwan University (FCIH)**, Class of 2023  
+AI Engineer with hands-on experience in building and deploying end-to-end machine learning and AI systems. Focused on developing production-ready solutions across machine learning, deep learning, and generative AI, with strong interest in scalable system design and real-world applications.
 
-### 💻 Areas of Interest  
-- Artificial Intelligence (AI)  
-- Machine Learning (ML)  
-- Data Science and Analytics  
-- Research and Development in AI-driven technologies  
+---
 
-### 🤝 Collaboration  
-I am eager to collaborate on **AI/ML projects**, innovative applications, and research initiatives. If you have an idea or project in mind, feel free to reach out!
+## Profile
 
-### 📫 Contact  
-- **Phone**: +20 111 765 4572  
-- **Email**: [mahmouddwidar2001@gmail.com]  
-- **LinkedIn**: [https://www.linkedin.com/in/mahmoud-dwidar-9686a4212]
+Computer Science & Artificial Intelligence graduate from Helwan University (2023), with practical experience in ML system development, model deployment, and LLM-based applications.
 
-Let’s innovate and build the future together! 🚀  
+Experienced in building full pipelines from data preprocessing and feature engineering to model training, evaluation, and deployment using modern AI frameworks.
+
+---
+
+## Core Expertise
+
+Machine Learning & Predictive Modeling
+Deep Learning & Neural Networks
+Large Language Models (LLMs) & Generative AI
+Retrieval-Augmented Generation (RAG) Systems
+NLP & Computer Vision
+Model Deployment & MLOps
+
+---
+
+## Technical Skills
+
+Python, SQL
+Pandas, NumPy, Scikit-learn
+TensorFlow, Keras
+Hugging Face, Transformers, LLMs
+RAG, QLoRA
+Docker, AWS
+Git, Linux
 
 
-<!---
-mahmouddwidar2001/mahmouddwidar2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Education & Certifications
+
+B.Sc. Computer Science & AI – Helwan University (2023)
+Machine Learning & Deep Learning Specializations (Stanford / DeepLearning.AI)
+Generative AI & LLM Training (AWS, NTI, DEPI, DEBI)
+
+---
+
+## Contact
+
+Email: [Mahmouddwidar2001@gmail.com](mailto:Mahmouddwidar2001@gmail.com)
+LinkedIn: linkedin.com/in/mahmoud-dwidar2001
+GitHub: github.com/mahmouddwidar2001
